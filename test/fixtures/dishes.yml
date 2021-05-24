@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  menu: one
+  course: 1
+  name: MyString
+  price_excluding_tax_cents: 1
+  added_value_tax: 1
+  added_value_tax_amount_cents: 1
+  price_including_tax_cents: MyString
+
+two:
+  menu: two
+  course: 1
+  name: MyString
+  price_excluding_tax_cents: 1
+  added_value_tax: 1
+  added_value_tax_amount_cents: 1
+  price_including_tax_cents: MyString
