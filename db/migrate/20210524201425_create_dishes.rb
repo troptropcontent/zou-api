@@ -6,7 +6,7 @@ class CreateDishes < ActiveRecord::Migration[6.1]
       t.string :name
       t.integer :price_excluding_tax_cents
       t.integer :added_value_tax
-      t.integer :added_value_tax_amount_cents
+      t.integer :amount_added_value_tax_cents
       t.string :price_including_tax_cents
 
       t.timestamps
